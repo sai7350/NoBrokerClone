@@ -1,18 +1,18 @@
 <template>
     <div>
-        <Header />
-        <slot/>
+        <div class="sticky ">
+            <Header />
+        </div>
+        <slot />
     </div>
 </template>
 
 <script>
 export default {
-    data () {
+    data() {
         return {}
     }
 }
 </script>
 
-<style lang="scss" scoped>
-
-</style>
+<style lang="scss" scoped></style>

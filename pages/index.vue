@@ -67,7 +67,7 @@
             style="width: 400px"
             placeholder="What are you looking for?"
           />
-  
+  <nuxt-link to="/resultPage">
           <button
             type="submit"
             class="w-14 h-12 ml-0 bg-red-500 text-white text-xl border border-red-500 rounded-r hover:bg-red-600 cursor-pointer"
@@ -86,7 +86,7 @@
                 d="M21 21l-5.197-5.197m0 0A7.5 7.5 0 105.196 5.196a7.5 7.5 0 0010.607 10.607z"
               />
             </svg>
-          </button>
+          </button></nuxt-link>
         </div>
       </div>
   

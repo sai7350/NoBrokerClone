@@ -20,6 +20,9 @@
     "@formkit/icons": "^1.1.0",
     "@formkit/nuxt": "^1.1.0",
     "@formkit/themes": "^1.2.0-071f6ff",
-    "@formkit/vue": "^1.2.0-071f6ff"
+    "@formkit/vue": "^1.2.0-071f6ff",
+    "axios": "^1.5.1",
+    "cheerio": "^1.0.0-rc.12",
+    "puppeteer": "^21.3.6"
   }
 }
